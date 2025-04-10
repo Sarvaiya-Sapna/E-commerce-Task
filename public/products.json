@@ -1,0 +1,34 @@
+{
+    "productData": [
+        {
+            "id": 1,
+            "name": "Keyboard",
+            "description": "Wireless",
+            "price": 100
+        },
+        {
+            "id": 2,
+            "name": "Mouse",
+            "description": "Wireless",
+            "price": 2300
+        },
+        {
+            "id": 3,
+            "name": "Screen",
+            "description": "Wireless",
+            "price": 500
+        },
+        {
+            "id": 4,
+            "name": "TouchPad",
+            "description": "Wireless",
+            "price": 200
+        },
+        {
+            "id": 5,
+            "name": "HeadPhone",
+            "description": "Wireless",
+            "price": 2200
+        }
+    ]
+}
